@@ -22,9 +22,9 @@ Tic Tac Toe is a classic two-player game where players take turns marking a 3x3 
 Insert a link to a live demo of your project here (optional).
 
 ## Screenshots
-![Game Preview_1](./assets/Game1.png?raw=true " Tic Tac Toe Game")
-![Game Preview_2](./assets/Game2.png?raw=true " Tic Tac Toe Game")
-![Game Preview_3](./assets/Game3.png?raw=true " Tic Tac Toe Game")
+![Game Preview_1](./assets/Game_1.png?raw=true " Tic Tac Toe Game") 
+![Game Preview_2](./assets/Game_2.png?raw=true " Tic Tac Toe Game")
+![Game Preview_3](./assets/Game_3.png?raw=true " Tic Tac Toe Game")
 
 
 ## Getting Started
